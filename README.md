@@ -28,3 +28,16 @@ Designed the dashboard layout for clear visualization and easy user interaction.
 
 ##Dashboard
 <img width="822" height="578" alt="dashboard" src="https://github.com/user-attachments/assets/7da69323-014c-42c8-864a-a7fdfd8c9f18" />
+
+##Project Insights
+Middle-aged customers are more likely to purchase bikes compared to older customers.
+Higher income customers are more likely to purchase bikes than lower income groups.
+Female customers with higher average income show strong bike purchasing behavior.
+Customers with shorter commute distances (0–1 miles) are more likely to purchase bikes.
+Customers from Europe and North America contribute significantly to bike purchases.
+Married customers show noticeable purchasing activity compared to single customers.
+Customers with Bachelor’s and Partial College education backgrounds contribute highly to bike sales.
+
+##Final Conclusion
+This analysis indicates that customer income, age group, commute distance, education, and marital status strongly influence bike purchasing behavior. Middle-aged customers with higher income and shorter commute distances represent the primary target audience for bike sales. Businesses can improve sales performance by focusing marketing campaigns on these customer segments.
+
